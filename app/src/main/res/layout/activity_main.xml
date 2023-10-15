@@ -99,7 +99,7 @@
         app:layout_constraintEnd_toStartOf="@+id/elemento2"
 
 
-        app:layout_constraintHorizontal_bias="0.833"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toEndOf="@+id/elemento1"
         app:layout_constraintTop_toTopOf="@+id/view"
         app:layout_constraintVertical_bias="0.499" />
